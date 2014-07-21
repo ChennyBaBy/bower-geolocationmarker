@@ -1,0 +1,16 @@
+{
+  "name": "easy-geolocationmarker",
+  "version": "0.0.1",
+  "authors": [
+    "adrian chen <adrian.evangelion@gmail.com>"
+  ],
+  "description": "maintained bower package for Google Map Utility Library (GeoLocationMarker)",
+  "keywords": [
+    "GeoLocationMarker"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/adrianchen19888/bower-geolocationmarker",
+  "ignore": [
+    "**/.*"
+  ]
+}
