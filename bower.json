@@ -4,6 +4,9 @@
   "authors": [
     "adrian chen <adrian.evangelion@gmail.com>"
   ],
+  "main": [
+    "src/geolocationmarker-compiled.js"
+  ],
   "description": "maintained bower package for Google Map Utility Library (GeoLocationMarker)",
   "keywords": [
     "GeoLocationMarker"
